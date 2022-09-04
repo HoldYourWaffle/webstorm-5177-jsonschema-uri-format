@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../webstorm-XXXX-jsonschema-format-validation/.idea/webstorm-XXXX-jsonschema-format-validation.iml" filepath="$PROJECT_DIR$/../webstorm-XXXX-jsonschema-format-validation/.idea/webstorm-XXXX-jsonschema-uri-format.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webstorm-5177-jsonschema-format-validation/.idea/webstorm-5177-jsonschema-format-validation.iml" filepath="$PROJECT_DIR$/../webstorm-5177-jsonschema-format-validation/.idea/webstorm-5177-jsonschema-uri-format.iml" />
     </modules>
   </component>
 </project>
